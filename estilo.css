@@ -1,0 +1,25 @@
+body{
+    width: 960px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 90, 14);
+}
+#pantalla{
+    border: groove 10px brown;
+    background: rgb(11, 105, 136);
+}
+#boton{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+    padding: 3px;
+    border: solid 2px black;
+}
+#boton:hover{
+    background-color: lightcoral;
+    font-size: 22px;
+}
